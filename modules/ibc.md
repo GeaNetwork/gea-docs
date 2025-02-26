@@ -1,6 +1,6 @@
 # IBC(Inter-Blockchain Communication)
 
-The IBC module provides Inter-Blockchain Communication (IBC) functionalities within the ME-HUB application. It includes the `IBCKeeper` which is responsible for managing IBC operations.
+The IBC module provides Inter-Blockchain Communication (IBC) functionalities within the GEA application. It includes the `IBCKeeper` which is responsible for managing IBC operations.
 
 Key components:
 - `IBCKeeper`: Manages IBC operations.

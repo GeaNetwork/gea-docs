@@ -4,11 +4,11 @@
 
 ***
 
-## 🌐 me-hub
+## 🌐 GEA
 
 * [Introduction](paper/introduction.md)
-* 📄[Me-Hub White Paper](paper/white_paper.md)
-* 📄[Me-Hub Technical Paper](paper/technical_paper.md)
+* 📄[GEA White Paper](paper/white_paper.md)
+* 📄[GEA Technical Paper](paper/technical_paper.md)
 * [DID(Decentralized Identifier)](modules/did/README.md)
   * [DID](modules/did/did.md)
   * [KYC](modules/did/kyc.md)
@@ -24,6 +24,6 @@
 * [Setup](setup/mehub.md)
 
 ***
-* [🌍Go to website](https://www.mec.me/) 
-* [🐙Go to github](https://github.com/st-chain/) 
+* [🌍Go to website](https://github.com/GeaNetwork/) 
+* [🐙Go to github](https://github.com/GeaNetwork/) 
 ***

@@ -1,6 +1,6 @@
 # NFT
 
-The NFT (Non-Fungible Token) module in Me-Hub manages the creation, transfer, and querying of NFTs. This module is built on top of the Cosmos SDK and provides a robust framework for handling NFTs within the blockchain application.
+The NFT (Non-Fungible Token) module in GEA manages the creation, transfer, and querying of NFTs. This module is built on top of the Cosmos SDK and provides a robust framework for handling NFTs within the blockchain application.
 
 ## Key Components
 

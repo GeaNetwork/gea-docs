@@ -1,2 +1,2 @@
-# Me-Hub Technical Paper
+# GEA Technical Paper
 

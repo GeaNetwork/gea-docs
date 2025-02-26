@@ -1,2 +1,2 @@
-# Me-Hub White Paper
+# GEA White Paper
 

@@ -1,6 +1,6 @@
 # Setup
 
-This section provides instructions on how to set up the ME-HUB application.
+This section provides instructions on how to set up the GEA application.
 
 ## Prerequisites
 
@@ -13,8 +13,8 @@ This section provides instructions on how to set up the ME-HUB application.
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/st-chain/me-hub.git
-cd me-hub
+git clone https://github.com/st-chain/GEA.git
+cd GEA
 ```
 
 2. Install dependencies:
